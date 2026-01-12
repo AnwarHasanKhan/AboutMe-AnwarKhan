@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @AnwarHasanKhan
-- 👀 I’m interested in building projects...
-- 🌱 I’m currently working as a Software Developer...
-- 💞️ I love to collaborate on OpenSource...
-- 📫 Reach me on Instagram/SnapChat @anwar_khan786...
+Hello there! I'm Anwar Khan 👨‍💻
+I am a Software Developer and B.Tech Computer Science graduate with a strong foundation in both Data Analytics and Mobile App Development.
+
+🔭 Current Status
+I am currently a Software Developer Trainee at Bytexus (Oct 2025–Present), building cross-platfrom applications using React Native.
+
+
+🛠️ Technical Skills
+Data: Python, SQL, Microsoft Azure, Power BI, ETL.
+App Dev: React Native, Firebase.
+Soft Skills: Problem Solving, Communication.
+
+💡 Featured Projects
+HopShop: A React Native Ecommerce app with Firebase authentication and cart functionality.
+WeatherApp: Real time weather and weekly weather forecast application using WeatherAPI.
+Max Virtual Assistant: A voice-activated Python assistant for web searching and automation.
+ETL Pipeline: Automated data extraction and visualization dashboard creation.
 
 <!---
 AnwarHasanKhan/AnwarHasanKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
